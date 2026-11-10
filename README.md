@@ -1,6 +1,6 @@
 # Trabalho Prático II — Autenticação, Contexto e Rotas Protegidas
 
-**Aluno(a):** _<Kethelem da Cruz Socoowski>_
+**Aluno(a):** Kethelem da Cruz Socoowski
 **Disciplina:** Desenvolvimento de Aplicativos — 2026/2
 
 Projeto feito a partir da **Aula 6** (`Aula06/`): o app Expo em React Native +
